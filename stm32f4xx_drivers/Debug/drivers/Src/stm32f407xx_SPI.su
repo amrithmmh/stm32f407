@@ -1,0 +1,7 @@
+stm32f407xx_SPI.c:11:6:SPI_PeriphCLKControl	16	static
+stm32f407xx_SPI.c:52:6:SPI_Init	24	static
+stm32f407xx_SPI.c:92:6:SPI_DeInit	16	static
+stm32f407xx_SPI.c:99:9:CheckStatusRegister	16	static
+stm32f407xx_SPI.c:109:6:SPI_SendData	24	static
+stm32f407xx_SPI.c:138:6:SPI_enable	16	static
+stm32f407xx_SPI.c:146:6:SPI_SSIConf	16	static

@@ -1,0 +1,3 @@
+SPI_simple.c:22:6:SPI_pinConfig	40	static
+SPI_simple.c:53:6:SPI2_Init	24	static
+SPI_simple.c:69:6:SPI_test	88	static

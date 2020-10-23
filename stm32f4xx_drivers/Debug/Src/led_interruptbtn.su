@@ -1,0 +1,2 @@
+led_interruptbtn.c:15:6:led_blink_it	8	static
+led_interruptbtn.c:46:6:EXTI0_IRQHandler	24	static
